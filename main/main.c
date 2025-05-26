@@ -19,7 +19,7 @@ void task_1(void *p) {
 
 
 void task_2(void *p) {
-    char cnt = 15;
+    // char cnt = 15;
     while (1) {
 
 	printf("hello from task 2 \n");
